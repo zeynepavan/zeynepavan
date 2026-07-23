@@ -1,4 +1,4 @@
-### I'm Zeynep 🐣
+## I'm Zeynep 🐣
 
 **Partnerships Manager** at [CompanyEnrich](https://companyenrich.com) - company and people data APIs for AI agents and platforms
 
