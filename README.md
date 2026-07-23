@@ -8,7 +8,7 @@ Long-time building B2B SaaS products with a [team of makers](https://kovanstudio
 
 ---
 
-## Currently
+# Currently
 
 - Building partnerships & growth loops for [CompanyEnrich](https://companyenrich.com): outreach, webinars, content, LinkedIn, and YouTube
 - Building B2B SaaS products with [Kovan Studio](https://kovanstudio.com): GTM strategy, positioning, and shipping fast
