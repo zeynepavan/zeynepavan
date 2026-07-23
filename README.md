@@ -2,7 +2,7 @@
 
 **Partnerships Manager** at [CompanyEnrich](https://companyenrich.com) - company and people data APIs for AI agents and platforms
 
-Long-time part of [Kovan Studio](https://kovanstudio.com), where we build B2B SaaS products. I make videos on building with AI and data on [CompanyEnrich YouTube](https://www.youtube.com/@companyenrich). I build GTM tools and experiments - [you'll love this one](https://youtu.be/TjvNqHGLQdQ?si=gbzYSyQK2H-psiZp). Sometimes [I write stuff](https://zeynepavan.medium.com/). Off-screen, you'll find me playing padel.
+Long-time building B2B SaaS products with a [team of makers](https://kovanstudio.com). [I make videos](https://www.youtube.com/@companyenrich) on building, AI, data and tools. I build GTM tools and experiments - [you'll love this one](https://youtu.be/TjvNqHGLQdQ?si=gbzYSyQK2H-psiZp). Sometimes, I [write stuff](https://zeynepavan.medium.com/). Off-screen, you'll find me playing padel.
 
 
 
